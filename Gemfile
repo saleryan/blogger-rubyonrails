@@ -45,3 +45,8 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'nokogiri', '>= 1.6.7.rc'
+gem 'bcrypt','3.1.10'
+gem 'sorcery'
+
+
+
